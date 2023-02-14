@@ -1,0 +1,19 @@
+/* Write your CSS here */
+
+.container {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  height: 50vh;
+  width: 65vw;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.con-1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
